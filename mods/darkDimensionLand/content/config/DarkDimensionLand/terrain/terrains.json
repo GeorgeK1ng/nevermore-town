@@ -22,7 +22,10 @@
 		],
 		"terrainViewPatterns" : "dark",
 		"type" : [],
-		"allowedLayers": ["surface", "unknown"],
+		"allowedLayers" : [
+			"surface",
+			"unknown"
+		],
 		"river" : "darkdimensionLandRiver",
 		"rockTerrain" : "rock",
 		"horseSound" : "horse02",
