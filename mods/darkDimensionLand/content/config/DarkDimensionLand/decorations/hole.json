@@ -1,0 +1,19 @@
+{
+	"core:hole" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"darkDimensionLandHole" : {
+						"animation" : "DarkDimensionLand/decorations/hole/DDHole",
+						"mask" : [
+							"V"
+						],
+						"allowedTerrains" : [
+							"darkdimensionLand"
+						]
+					}
+				}
+			}
+		}
+	}
+}

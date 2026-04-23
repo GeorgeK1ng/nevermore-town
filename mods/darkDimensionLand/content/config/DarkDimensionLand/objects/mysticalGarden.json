@@ -1,0 +1,25 @@
+{
+	"core:mysticalGarden" : {
+		"types" : {
+			"mysticalGarden" : {
+				"templates" : {
+					"darkDimension_mysticalGarden" : {
+						"animation" : "DarkDimensionLand/objects/mysticalGarden/DDMysticalGarden",
+						"visitableFrom" : [
+							"---",
+							"-+-",
+							"+++"
+						],
+						"mask" : [
+							"VBV",
+							"BAB"
+						],
+						"allowedTerrains" : [
+							"darkdimensionLand"
+						]
+					}
+				}
+			}
+		}
+	}
+}
